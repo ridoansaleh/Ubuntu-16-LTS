@@ -1,0 +1,11 @@
+# Started on February 25th 2017
+
+Installed Apps :
+1. Apache2 (web server) 
+2. MariaDB 
+3. PHP
+4. phpMyAdmin
+
+Tutorials sources :
+a. https://www.ostechnix.com/install-apache-mariadb-php-lamp-stack-ubuntu-16-04/
+b. https://www.ostechnix.com/install-phpmyadmin-with-lamp-stack-on-ubuntu-16-04/
