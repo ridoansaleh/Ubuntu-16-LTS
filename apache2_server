@@ -1,0 +1,22 @@
+Apache2 Server
+
+1. Start  
+   sudo systemctl start apache2.service
+
+2. Stop
+   sudo systemctl stop apache2.service
+
+3. Restart
+   sudo systemctl restart apache2.service
+   
+4. Check status star/stop/restart
+   journalctl -u apache2
+   
+5. Check whether apache2 is running OR not
+   sudo systemctl status apache2.service
+   
+6. Check apache2 server version
+   apache2 -v
+   
+
+Tutorial source : https://www.cyberciti.biz/faq/ubuntu-linux-start-restart-stop-apache-web-server/
