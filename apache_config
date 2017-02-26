@@ -22,7 +22,7 @@ Apache v2.4.18 configuration file :
 </VirtualHost>
 
 
-# note => config file located in /etc/apache2/apache2.conf
+# note => config file located at /etc/apache2/apache2.conf (Ubuntu File System)
 
 Tutorials sources :
 1. http://askubuntu.com/questions/292968/apache2-forbidden-you-dont-have-permission-to-access-dir-on-this-server
