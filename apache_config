@@ -1,0 +1,29 @@
+Apache v2.4.18 configuration file : 
+
+<VirtualHost *:80>
+  ...
+  <Directory />
+    Options FollowSymLinks
+    AllowOverride None
+  </Directory>
+
+  <Directory /usr/share>
+    AllowOverride None
+    Require all granted
+  </Directory>
+
+  <Directory /var/www/html/>
+    Options Indexes FollowSymLinks
+    AllowOverride None
+    Order allow,deny
+    allow from all
+  </Directory>
+  ...
+</VirtualHost>
+
+
+# note => config file located in /etc/apache2/apache2.conf
+
+Tutorials sources :
+1. http://askubuntu.com/questions/292968/apache2-forbidden-you-dont-have-permission-to-access-dir-on-this-server
+2. https://ubuntuforums.org/showthread.php?t=1204863
