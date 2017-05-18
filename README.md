@@ -1,5 +1,5 @@
-# Ubuntu-16-LTS
-This is a list of changes i have been made on my laptop and some tutorials & tips on Linux (Ubuntu Distro)
+# Ubuntu 16.04 LTS
+<h3>Sedikit Tutorial Tentang Linux Distro Ubuntu 16.04 LTS</h3>
 <ol>
    <li> Cara Menambah, Mengubah dan Menghapus PPA :
       <ul>
