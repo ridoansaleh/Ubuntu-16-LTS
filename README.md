@@ -7,4 +7,8 @@
       <p>Pergi ke Dash (tekan Window button pada laptop Acer)</p> 
       <img src="/gambar1.png" alt="gambar 1"/>
    </li>
+   <li>
+      <p>Cari Software & Update</p>
+      <img src="/gambar2.png" alt="gambar 2"/>
+   </li>
 </ol>
